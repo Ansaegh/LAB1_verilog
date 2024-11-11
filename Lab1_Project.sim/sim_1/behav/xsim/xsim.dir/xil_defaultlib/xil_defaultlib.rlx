@@ -1,0 +1,15 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Lab1_Project/Lab1_Project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sim_1/new/tb_FA.sv,1731358179,systemVerilog,,,,tb_FA,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sim_1/new/tb_and4gate.sv,1731355690,systemVerilog,,,,tb_and4gate,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sim_1/new/tb_andgate.sv,1731354616,systemVerilog,,,,tb_andgate,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/FA.sv,1731357594,systemVerilog,,/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/HA.sv,,FA,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/HA.sv,1731357117,systemVerilog,,/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/andgate.sv,,HA,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/and4gate.sv,1731354862,systemVerilog,,/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/andgate.sv,,and4gate,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/andgate.sv,1731354572,systemVerilog,,/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/orgate.sv,,andgate,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/orgate.sv,1731357025,systemVerilog,,/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/xorgate.sv,,orgate,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/tb_HA.sv,1731356714,systemVerilog,,,,tb_HA,,,,,,,,
+/home/it/Lab1_Project/Lab1_Project.srcs/sources_1/new/xorgate.sv,1731357692,systemVerilog,,/home/it/Lab1_Project/Lab1_Project.srcs/sim_1/new/tb_FA.sv,,xorgate,,,,,,,,
